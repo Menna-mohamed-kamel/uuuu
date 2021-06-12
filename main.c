@@ -5,5 +5,6 @@ int main()
 {
     printf("Hello world!\n");
     printf("this is update");
+    printf("ya mosahl");
     return 0;
 }
